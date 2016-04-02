@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<h1>My Website</h1>
+		<h2>Welcome</h2>
+		<p>Hello World</p>
+		<p>This is my first web site</p>
+		<strong>Yay! CodeFirst:Girls</strong>
+		
+		<form>
+			Name: <input type="text" />
+			<br/>
+			Address: <input type="text" />
+			<br/>
+			Gender: 
+				<input type="radio" name="g" />Male
+				<input type="radio" name="g" />Female
+			<br/>
+			<input type="submit" />
+		</form>
+	</body>
+</html> 
